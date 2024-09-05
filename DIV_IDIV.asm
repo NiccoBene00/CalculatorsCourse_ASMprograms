@@ -1,7 +1,7 @@
 ;Le istruzioni DIV (DIVision, unsigned) e IDIV (Integer DIVision, signed) permettono di eseguire
 ;l’operazione di divisione tra numeri interi rispettivamente senza segno o con segno.
 
-		DIV		operando
+		DIV     operando
 		IDIV	operando
 
 ;L’operando può essere il contenuto di un registro oppure il contenuto di una locazione di memoria.
